@@ -3,7 +3,8 @@
     "manifest_version": 3,
     "name": "BlooketStyle",
     "version": "0.01",
-    "homepage_url": "https://github.com/cdberkstresser/BlooketStyle",
+    "homepage_url": e",
+    
     "icons": {
         "16": "icons/hhsblooket-16.png",
         "32": "icons/hhsblooket-32.png",
